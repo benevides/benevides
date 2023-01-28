@@ -9,3 +9,5 @@
 -->
 
 [![Nelson Benevides GitHub stats](https://github-readme-stats.vercel.app/api?username=benevides&count_private=true&show_icons=true&theme=github_dark)](https://github.com/benevides/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=benevides&repo=tesseract-ocr)](https://github.com/benevides/github-readme-stats)
