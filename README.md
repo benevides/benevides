@@ -8,7 +8,4 @@
 - ⚡ Fun fact: ...
 -->
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benevides)](https://github.com/benevides/github-readme-stats)
-
-https://github-readme-stats.vercel.app/api?username=benevides(https://github.com/anuraghazra/github-readme-stats)
+[![Nelson Benevides GitHub stats](https://github-readme-stats.vercel.app/api?username=benevides&count_private=true&show_icons=true&theme=github_dark)](https://github.com/benevides/github-readme-stats)
