@@ -12,4 +12,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=benevides&repo=tesseract-ocr)](https://github.com/benevides/github-readme-stats)
 
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=benevides&layout=compact&langs_count=7&theme=dark
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benevides&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
